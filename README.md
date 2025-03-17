@@ -24,8 +24,8 @@ Diziler ve dizilere ait metodları öğrendim.
 📍 Proje-7: Foreach Döngüsü
 Foreach döngüsünü öğrenip,örnek olarak sınav sistemi uygulamasını simüle ettim.
 
-📍 Proje 8: Metotlar (Methods)
+📍 Proje-8: Metotlar (Methods)
 Kodların düzenli ve tekrar kullanılabilirliği için metodları öğrendim. Parametre ve değer döndürme durumuna göre farklı metodlar oluşturduk.
 
-📍 Proje 9: Veritabanına Giriş
+📍 Proje-9: Veritabanına Giriş
 Veritabanına giriş yapıp,MSSql de veritabanı oluşturduk.AdoNet'e temel giriş yaptık.

@@ -30,3 +30,6 @@ Kodların düzenli ve tekrar kullanılabilirliği için metodları öğrendim. P
 
 📍 Proje-9: Veritabanına Giriş
 Veritabanına giriş yapıp,MSSql de veritabanı oluşturduk.AdoNet'e temel giriş yaptık.
+
+📍 Proje-9: CRUD İşlemler
+Bir önceki bölümde oluşturduğumuz veritabanı üzerinden crud işlemlerini gerçekleştirdim.

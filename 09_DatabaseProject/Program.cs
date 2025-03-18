@@ -2,7 +2,6 @@
 using System.Data;
 using System.Data.SqlClient;
 
-
 //Adonet
 Console.WriteLine("***** C# Veri Tabanlı Ürün-Kategori Bilgi Sistemi *****");
 Console.WriteLine();
